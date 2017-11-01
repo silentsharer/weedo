@@ -1,2 +1,4 @@
-# weedo
-a seaweedfs client written in golang
+weedo
+=====
+
+a weed-fs client written in golang
